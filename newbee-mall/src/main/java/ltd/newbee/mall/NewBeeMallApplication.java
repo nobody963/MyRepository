@@ -20,5 +20,6 @@ public class NewBeeMallApplication {
 
         SpringApplication.run(NewBeeMallApplication.class, args);
         System.out.println("args = " + args);
+        System.out.println("args = " + args);
     }
 }
